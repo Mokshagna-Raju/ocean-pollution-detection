@@ -227,3 +227,24 @@ The project can be deployed using:
 ## 📌 Conclusion
 
 This project demonstrates how **AI and web technologies** can be combined to build an intelligent system for environmental monitoring. It provides a foundation for future advancements in ocean pollution detection and analysis.
+
+
+## Screenshots
+
+### Home Page
+![Home](screenshots/home.jpeg)
+
+### Upload Page
+![Upload](screenshots/upload.jpeg)
+
+### Detection Result
+![Result](screenshots/sampleresults.jpeg)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.jpeg)
+
+### Login
+![Login](screenshots/login.jpeg)
+
+### System capabilities
+![System capabilities](screenshots/systemcapabilities.jpeg)
